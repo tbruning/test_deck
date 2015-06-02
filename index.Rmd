@@ -12,7 +12,7 @@ knit        : slidify::knit2slides
 ---
 
 # Reproducibility
-this is it
+this is it as is this
 
 ---
 
