@@ -10,7 +10,7 @@ widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : self-contained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
-
+  
 # Reproducibility
 this is it as is this
 
